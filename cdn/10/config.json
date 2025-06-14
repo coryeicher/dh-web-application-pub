@@ -152,11 +152,11 @@
         "0": {
           "type": "WIDGET",
           "bbox": {
-            "left": "14.00px",
+            "left": "60.00px",
             "width": "60px",
             "height": "63.8%",
             "bottom": "14.63%",
-            "top": "180.00px",
+            "top": "60.00px",
             "right": "1163px"
           },
           "widgetId": "widget_24",
@@ -15902,7 +15902,7 @@
       "page_4": []
     }
   ],
-  "timestamp": 1749903141581,
+  "timestamp": 1749934855022,
   "header": {
     "layout": {
       "LARGE": "layout_58"
@@ -15913,7 +15913,14 @@
   },
   "originExbVersion": "1.17.0",
   "attributes": {
-    "portalUrl": "https://davishorizons.maps.arcgis.com"
+    "portalUrl": "https://davishorizons.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "KnlYmyywWSmaPm63",
+    "express": false,
+    "title": "Davis Horizons Viewer 2025",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": null
   },
   "sharedThemeVariables": {
     "header": {
@@ -15979,5 +15986,6 @@
     "typography": {
       "fontFamilyBase": "Avenir Next"
     }
-  }
+  },
+  "publishTimestamp": 1749934856612
 }
