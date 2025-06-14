@@ -152,25 +152,25 @@
         "0": {
           "type": "WIDGET",
           "bbox": {
-            "left": "0.5%",
+            "left": "14.00px",
             "width": "60px",
             "height": "63.8%",
-            "bottom": "119px",
-            "top": "21.4%",
-            "right": "1214px"
+            "bottom": "14.63%",
+            "top": "180.00px",
+            "right": "1163px"
           },
           "widgetId": "widget_24",
           "setting": {
             "lockParent": true,
             "autoProps": {
-              "top": true,
+              "top": false,
               "left": false,
               "right": true,
-              "bottom": false,
+              "bottom": true,
               "height": "AUTO"
             },
             "hCenter": false,
-            "vCenter": true,
+            "vCenter": false,
             "lockLayout": true
           }
         },
@@ -15902,7 +15902,7 @@
       "page_4": []
     }
   ],
-  "timestamp": 1749755847533,
+  "timestamp": 1749903141581,
   "header": {
     "layout": {
       "LARGE": "layout_58"
@@ -15987,5 +15987,5 @@
       "fontFamilyBase": "Avenir Next"
     }
   },
-  "publishTimestamp": 1749755853882
+  "publishTimestamp": 1749903190046
 }
